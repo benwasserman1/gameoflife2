@@ -1,0 +1,39 @@
+Ben Wasserman
+2280906
+wasse114@mail.chapman.edu
+CPSC 350 Section 3
+Assignment #2: Game of Life
+
+The following source files are being submitted:
+
+1. main.cpp
+2. Board.cpp
+3. Board.h
+
+Known runtime errors: NA
+
+The following are the references I used for my assignment:
+
+Partner: NA
+
+1. The book for dynamic allocation of 2D arrays
+  a. https://o6ucs.files.wordpress.com/2012/11/data-structures-and-algorithms-in-c.pdf
+2. Looked at as reference for converting a 1D array to a 2D array
+  a. https://stackoverflow.com/questions/19913596/c-2d-array-to-1d-array
+3. As a reference for the block of code that I wrote that shuffles the X's in the 1D array
+  a. http://www.cplusplus.com/reference/algorithm/shuffle/
+4. As a reference for reading in a 2D array from a file
+  a. http://www.cplusplus.com/forum/beginner/54345/
+  b. https://stackoverflow.com/questions/36708370/reading-from-txt-file-into-two-dimensional-array-in-c
+5. As a reference for swapping the arrays with pointers
+  a. https://stackoverflow.com/questions/3393518/swap-arrays-by-using-pointers-in-c
+6. As a reference for how to force the user to hit the enter key to continue
+  a. https://stackoverflow.com/questions/9243144/how-to-exit-program-on-press-of-return-key
+7. As a reference for the sleep function that allows the output to pause
+  a. http://www.cplusplus.com/forum/beginner/14954/
+8. As a reference for global variables
+  a. http://www.learncpp.com/cpp-tutorial/42-global-variables/
+9. For reference on how to ignore up until the new line delimiter
+  a. http://www.cplusplus.com/forum/beginner/9353/
+10. For reference on clearing the input
+  a. https://stackoverflow.com/questions/5131647/why-would-we-call-cin-clear-and-cin-ignore-after-reading-input
